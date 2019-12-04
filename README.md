@@ -1,10 +1,10 @@
-#MICADO platform
+# MICADO platform
 MICADO platform offers a set of backend components integrated and exposed through three applications targeted to 3 stackeholders groups:
 1. Migrants
 2. Public Administration
 3. NGO
 
-##Deployment instructions
+## Deployment instructions
 To execute the MICADO platform clone the repository and execute docker-compose.
 
 To have a correct working instance you have to properly configure hostnames.  Given a target domain <MY_DOMAIN> the hostnames that should be created are:
