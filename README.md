@@ -19,3 +19,7 @@ To have a correct working instance you have to properly configure hostnames.  Gi
 ``
 docker-compose up
 ``
+
+funded by
+
+![GitHub Logo](/img/Flag_of_Europe.svg_.png)This project has received funding from the European Union’s H2020 Innovation Action under Grant Agreement No 822717.
