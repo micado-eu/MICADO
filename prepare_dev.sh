@@ -4,7 +4,7 @@
 OWNER="micado-eu"
 
 # Array of repository names
-REPOS=("installer" "migrant_application" "pa_application" "ngo_application" "bakend" "quasar" "micado_deployment")
+REPOS=("installer" "migrant_application" "pa_application" "ngo_application" "bakend" "quasar" "micado_deployment" "MICADO.wiki" )
 
 # Directory to clone repositories into
 CLONE_DIR="$1"
